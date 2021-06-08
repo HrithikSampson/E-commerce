@@ -5,7 +5,7 @@
   "scripts": {
     "start": "nodemon ./app.js"
   },
-  "author": "sabeel khan",
+  "author": "Hrithik",
   "license": "ISC",
   "dependencies": {
     "ejs": "^3.1.6",
